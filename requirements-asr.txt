@@ -1,0 +1,7 @@
+# Speech recognition + translation worker (workers/dub_worker.py).
+# Any Windows CPython 3.10-3.12 x64 venv. GPU: also `pip install nvidia-cublas-cu12 "nvidia-cudnn-cu12==9.*"`.
+faster-whisper>=1.0
+argostranslate>=1.9
+numpy
+soundfile>=0.12
+onnxruntime>=1.18

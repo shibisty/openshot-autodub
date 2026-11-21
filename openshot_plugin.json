@@ -1,0 +1,7 @@
+{
+  "name": "AutoDub",
+  "module": "openshot_autodub",
+  "entry": "register",
+  "version": "0.1.0",
+  "description": "AI dubbing for OpenShot: Whisper transcription, editable sentences, translation, CosyVoice3 voice cloning, timeline placement."
+}
